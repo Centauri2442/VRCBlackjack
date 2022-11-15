@@ -1,0 +1,30 @@
+v1.0.4
+- Fixed issue where rejoining world mid-match had a chance to break the table
+- Optimized runtime performance to improve CPU frametime
+
+
+v1.0.3
+- ACTUALLY fixed issue where spawning into the world near the table does not automatically enable that table, and required them to step outside of the distance trigger and back in
+- Added chip reset button to back of table
+- Fixed a few warning popups due to using deprecated function calls (VRCInstantiate vs Instantiate)
+
+
+v1.0.2
+- Fixed issue of helpers overrendering win state
+- Made height adjustment slider only show when game is active
+- Dealer now has helper
+- Ownership is transferred to table owner, rather than master when player leaves table
+- Made table only able to be reset by owner
+- Fixed issue where not confirming hit carried over to next match
+- Fixed issue where spawning into the world near the table does not automatically enable that table, and required them to step outside of the distance trigger and back in
+- Worked around issue that resulted in players always winning in some situations. Relevant canny: https://vrchat.canny.io/vrchat-udon-closed-alpha-bugs/p/1260-synced-variables-referenced-externally-in-other-scripts-occasionally-return
+
+
+v1.0.1
+
+- Fixed issue where materials were set to Filamented. Default table materials are now Standard.
+
+
+v1.0
+
+- Initial release!

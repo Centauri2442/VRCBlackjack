@@ -43,6 +43,7 @@ Unless absolutely required, handle all modifications to the table settings throu
 - Centauri | Developer
 - Sentinel373 | Blackjack Table Mesh
 - FiyCsf | Table Textures
+- Three Ribbon Studios | Audio
 
 ---
 Copyright 2022 CentauriCore

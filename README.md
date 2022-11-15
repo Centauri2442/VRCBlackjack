@@ -2,7 +2,7 @@
 
 #### VRCBlackjack is a prefab that allows you to create multiple tables and play Blackjack with your friends! With 7 players per table, both manual and automatic dealing, and a full chip system, it is jam-packed with features that'll make you and your friends have fun for hours!
 
-[Demo World](https://vrchat.com/home/world/wrld_41007480-7a8b-44f3-a97e-57a83d3512ce) | [Gumroad](https://centauri.gumroad.com/l/rrqay)
+[Demo World](https://vrchat.com/home/world/wrld_41007480-7a8b-44f3-a97e-57a83d3512ce) | [Gumroad](https://centauri.gumroad.com/l/VRCBlackjack)
 ---
 ![Blackjack System](https://user-images.githubusercontent.com/28989460/201807936-13f4e014-e947-4b1f-911b-d4e3470f99e1.PNG)
 ---
